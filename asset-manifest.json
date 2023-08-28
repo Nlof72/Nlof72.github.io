@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nlof72.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/Nlof72.github.io/static/js/main.e6dbd8be.js",
-    "static/js/787.2c263acd.chunk.js": "/Nlof72.github.io/static/js/787.2c263acd.chunk.js",
-    "index.html": "/Nlof72.github.io/index.html",
-    "main.073c9b0a.css.map": "/Nlof72.github.io/static/css/main.073c9b0a.css.map",
-    "main.e6dbd8be.js.map": "/Nlof72.github.io/static/js/main.e6dbd8be.js.map",
-    "787.2c263acd.chunk.js.map": "/Nlof72.github.io/static/js/787.2c263acd.chunk.js.map"
+    "main.css": "/test/static/css/main.073c9b0a.css",
+    "main.js": "/test/static/js/main.3d99eb56.js",
+    "static/js/787.2c263acd.chunk.js": "/test/static/js/787.2c263acd.chunk.js",
+    "index.html": "/test/index.html",
+    "main.073c9b0a.css.map": "/test/static/css/main.073c9b0a.css.map",
+    "main.3d99eb56.js.map": "/test/static/js/main.3d99eb56.js.map",
+    "787.2c263acd.chunk.js.map": "/test/static/js/787.2c263acd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e6dbd8be.js"
+    "static/js/main.3d99eb56.js"
   ]
 }
