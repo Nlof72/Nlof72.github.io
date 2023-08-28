@@ -40,15 +40,25 @@ function App() {
                 height: '100vh',
                 gap: 20
             }}>
-                <div>
-                    {
-                        rolledRndValue
-                    }
+                <div style={{display: "flex", flexDirection: "row", gap: 5}}>
+                    <div>
+                        Rolled value:
+                    </div>
+                    <div>
+                        {
+                            rolledRndValue
+                        }
+                    </div>
                 </div>
-                <div>
-                    {
-                        baseChanceDrop
-                    }
+                <div style={{display: "flex", flexDirection: "row", gap: 5}}>
+                    <div>
+                        Roll param value:
+                    </div>
+                    <div>
+                        {
+                            baseChanceDrop
+                        }
+                    </div>
                 </div>
                 <div style={{
                     display: "flex",
